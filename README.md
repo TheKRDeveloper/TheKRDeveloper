@@ -1,4 +1,4 @@
-# 👋 Hello, World! I'm KR Developer (KRHDev) 🚀
+# 👋 Hello, World! I'm KR Developer (TheKRDeveloper) 🚀
 
 I'm a developer from India, on an exciting journey to sharpen my coding skills and become a pro! I’m passionate about experimenting with different technologies and learning something new every day. 💡
 
@@ -44,13 +44,13 @@ I'm a developer from India, on an exciting journey to sharpen my coding skills a
 
 ## 📫 Contact Me
 - **Email:** [developerkr.business@gmail.com][businessMail]
-- **Telegram:** [@KRHDev][telegram]
+- **Telegram:** [@KRDev][telegram]
 
 ---
 
 *“Coding, breaking, learning, and growing. Let’s create something awesome together!”* 🌟
 
-[telegram]: https://telegram.dog/KRHDev
+[telegram]: https://telegram.dog/KRDev
 [businessMail]: mailto:developerkr.business@gmail.com
 
 [phpLogo]: https://img.shields.io/badge/-PHP-4F5B93?style=for-the-badge&logo=php&logoColor=white
